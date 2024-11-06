@@ -1,4 +1,4 @@
-# XYZ Banking Application (BlazeExercise) Automation Framework
+# Demo Blaze Exercise (XYZ Banking Application) Automation Framework
 
 **Overview**
 This repository contains an end-to-end automation framework developed using Cucumber to automate testing of a banking web application. The project focuses on automating critical banking workflows such as login, deposit, withdrawal, and transaction history to ensure the stability and reliability of the application.
